@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE jv-lic SYSTEM "http://www.javaview.de/rsrc/jv-lic.dtd">
+<jv-lic>
+	<meta generator="JavaView License Generator v.1.00"/>
+	<meta date="Sat Dec 11 20:13:32 2010"/>
+	<version type="release">1.00</version>
+	<title>JavaView License File</title>
+	<license info="subscribe" type="evaluation" usage="single">
+		<license-id>4286.5703.5246.9057</license-id>
+		<license-expire>2011-12-31</license-expire>
+		<licensee>
+			<firstname>user</firstname>
+			<lastname>test</lastname>
+			<affiliation>
+				<organization>to Test</organization>
+				<address>
+					<line>testing</line>
+					<line>Portugal</line>
+				</address>
+			</affiliation>
+			<email>peneireiro@gmail.com</email>
+			<url>peneireiro@gmail.com</url>
+		</licensee>
+	</license>
+</jv-lic>
+
